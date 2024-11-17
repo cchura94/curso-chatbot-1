@@ -1,0 +1,16 @@
+{
+  "name": "bot1",
+  "version": "1.0.0",
+  "description": "chatbot-whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "link-preview-js": "^3.0.12",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
